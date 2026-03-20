@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The Rebuild Club - 7天睡眠重啟系統。香港中環專業人士的睡眠優化解決方案。">
+    <title>The Rebuild Club - 7天睡眠重啟系統</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="logo">
+                <h1>🔄 The Rebuild Club</h1>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1>你每個月正在損失 $5,000 的產值</h1>
+                <p class="hook">在香港，如果你每晚睡不到 6 小時</p>
+                <p class="subtext">你的身體正在破產，而你還不知道</p>
+                <a href="#pricing" class="cta-primary">立即購買系統</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pain Points Section -->
+    <section class="pain-points">
+        <div class="container">
+            <h2>為什麼你的睡眠正在被摧毀？</h2>
+            
+            <div class="pain-grid">
+                <div class="pain-card">
+                    <div class="icon">💡</div>
+                    <h3>光害環境</h3>
+                    <p>香港的高光污染環境直接摧毀你的褪黑激素分泌，導致深度睡眠幾乎不可能。</p>
+                </div>
+                
+                <div class="pain-card">
+                    <div class="icon">📈</div>
+                    <h3>皮質醇失控</h3>
+                    <p>長期睡眠不足導致皮質醇水平持續高企，你的身體處於永久的「戰鬥或逃跑」狀態。</p>
+                </div>
+                
+                <div class="pain-card">
+                    <div class="icon">☕</div>
+                    <h3>咖啡因陷阱</h3>
+                    <p>咖啡因只是在借高利貸。你現在的身體正在為昨天的透支付出代價。</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Solution Section -->
+    <section class="solution">
+        <div class="container">
+            <h2>《7天睡眠重啟系統》</h2>
+            <p class="intro">這不是理論，是一個環境科學學生用數據實測出的 7 個步驟</p>
+            
+            <div class="solution-grid">
+                <div class="solution-step">
+                    <div class="step-number">1</div>
+                    <h4>皮質醇管理</h4>
+                    <p>重設你的生物時鐘，讓皮質醇在正確的時間分泌</p>
+                </div>
+                
+                <div class="solution-step">
+                    <div class="step-number">2</div>
+                    <h4>臥室光譜調整</h4>
+                    <p>從光害環境中解救你的褪黑激素</p>
+                </div>
+                
+                <div class="solution-step">
+                    <div class="step-number">3</div>
+                    <h4>深度睡眠激活</h4>
+                    <p>進入真正的修復睡眠狀態</p>
+                </div>
+                
+                <div class="solution-step">
+                    <div class="step-number">4</div>
+                    <h4>晨間清醒協議</h4>
+                    <p>每天早上醒來時大腦立即清醒</p>
+                </div>
+                
+                <div class="solution-step">
+                    <div class="step-number">5</div>
+                    <h4>咖啡因戒斷計畫</h4>
+                    <p>安全脫離咖啡因依賴</p>
+                </div>
+                
+                <div class="solution-step">
+                    <div class="step-number">6</div>
+                    <h4>環境轉變清單</h4>
+                    <p>改造你的睡眠環境</p>
+                </div>
+                
+                <div class="solution-step">
+                    <div class="step-number">7</div>
+                    <h4>習慣鎖定系統</h4>
+                    <p>確保改變能夠��續</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- What You Get Section -->
+    <section class="deliverables">
+        <div class="container">
+            <h2>你將收到：</h2>
+            
+            <div class="deliverables-list">
+                <div class="item">
+                    <span class="checkmark">✓</span>
+                    <p><strong>完整 7 天系統指南</strong> - 逐日按步驟進行</p>
+                </div>
+                
+                <div class="item">
+                    <span class="checkmark">✓</span>
+                    <p><strong>環境科學數據報告</strong> - 為什麼這有效</p>
+                </div>
+                
+                <div class="item">
+                    <span class="checkmark">✓</span>
+                    <p><strong>臥室改造檢查表</strong> - 確切知道該做什麼</p>
+                </div>
+                
+                <div class="item">
+                    <span class="checkmark">✓</span>
+                    <p><strong>皮質醇追蹤表</strong> - 監測你的進度</p>
+                </div>
+                
+                <div class="item">
+                    <span class="checkmark">✓</span>
+                    <p><strong>習慣建立模板</strong> - 使改變持續</p>
+                </div>
+                
+                <div class="item">
+                    <span class="checkmark">✓</span>
+                    <p><strong>常見問題解答</strong> - 所有問題的答案</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing Section -->
+    <section id="pricing" class="pricing">
+        <div class="container">
+            <h2>首批測試價</h2>
+            
+            <div class="pricing-card">
+                <div class="price-tag">
+                    <span class="currency">$</span>
+                    <span class="amount">299</span>
+                    <span class="currency"> HKD</span>
+                </div>
+                
+                <p class="original-price">原價 <del>$599</del></p>
+                <p class="discount">50% 折扣</p>
+                
+                <p class="description">你買的不只是 PDF，是每天早上醒來後的清醒大腦</p>
+                
+                <a href="https://buy.stripe.com/9B64gzfXp0VcdXHaXcdQQ00" class="cta-primary">點擊購買</a>
+                
+                <p class="delivery">✓ 付款後 5 分鐘內寄到你的 Email</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Final Section -->
+    <section class="final-cta">
+        <div class="container">
+            <h2>只需 7 天，找回你失蹤的專注力</h2>
+            <a href="https://buy.stripe.com/9B64gzfXp0VcdXHaXcdQQ00" class="cta-primary">現在就開始</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 The Rebuild Club. 所有權利保留。</p>
+            <p>This is a digital product. No refunds.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+:root {
+    --primary-dark: #0F1419;
+    --primary-gold: #D4A574;
+    --accent-orange: #E8956B;
+    --text-light: #FFFFFF;
+    --text-muted: #B0B8C1;
+    --border-color: #2A3544;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background-color: var(--primary-dark);
+    color: var(--text-light);
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+h1 { font-size: 3rem; }
+h2 { font-size: 2.5rem; margin-bottom: 2rem; }
+h3 { font-size: 1.5rem; }
+h4 { font-size: 1.2rem; }
+
+/* Navigation */
+.navbar {
+    background: rgba(15, 20, 25, 0.95);
+    backdrop-filter: blur(10px);
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.navbar .logo h1 {
+    color: var(--primary-gold);
+    font-size: 1.5rem;
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(135deg, #0F1419 0%, #1a2332 100%);
+    padding: 100px 0;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: radial-gradient(circle at 20% 50%, rgba(212, 165, 116, 0.1) 0%, transparent 50%);
+    pointer-events: none;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 2;
+}
+
+.hero h1 {
+    color: var(--primary-gold);
+    margin-bottom: 1rem;
+    animation: fadeInUp 0.8s ease-out;
+}
+
+.hook {
+    font-size: 1.3rem;
+    color: var(--accent-orange);
+    margin-bottom: 0.5rem;
+}
+
+.subtext {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    margin-bottom: 2rem;
+}
+
+/* Pain Points Section */
+.pain-points {
+    padding: 80px 0;
+    background: #0F1419;
+}
+
+.pain-points h2 {
+    text-align: center;
+    color: var(--primary-gold);
+}
+
+.pain-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 3rem;
+}
+
+.pain-card {
+    background: rgba(212, 165, 116, 0.05);
+    border: 1px solid var(--border-color);
+    padding: 2rem;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.pain-card:hover {
+    background: rgba(212, 165, 116, 0.1);
+    border-color: var(--primary-gold);
+    transform: translateY(-5px);
+}
+
+.pain-card .icon {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.pain-card h3 {
+    color: var(--primary-gold);
+    margin-bottom: 1rem;
+}
+
+/* Solution Section */
+.solution {
+    padding: 80px 0;
+    background: linear-gradient(135deg, #0F1419 0%, #1a2332 100%);
+}
+
+.solution h2 {
+    text-align: center;
+    color: var(--primary-gold);
+}
+
+.solution .intro {
+    text-align: center;
+    font-size: 1.2rem;
+    color: var(--accent-orange);
+    margin-bottom: 3rem;
+}
+
+.solution-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+}
+
+.solution-step {
+    background: rgba(212, 165, 116, 0.05);
+    border: 1px solid var(--border-color);
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.solution-step:hover {
+    background: rgba(212, 165, 116, 0.1);
+    border-color: var(--primary-gold);
+}
+
+.step-number {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background: var(--primary-gold);
+    color: var(--primary-dark);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.solution-step h4 {
+    color: var(--primary-gold);
+    margin-bottom: 1rem;
+}
+
+/* Deliverables Section */
+.deliverables {
+    padding: 80px 0;
+    background: #0F1419;
+}
+
+.deliverables h2 {
+    text-align: center;
+    color: var(--primary-gold);
+}
+
+.deliverables-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 3rem;
+}
+
+.item {
+    display: flex;
+    gap: 1rem;
+    padding: 1.5rem;
+    background: rgba(212, 165, 116, 0.05);
+    border-left: 3px solid var(--primary-gold);
+    border-radius: 4px;
+}
+
+.checkmark {
+    color: var(--primary-gold);
+    font-size: 1.5rem;
+    font-weight: 700;
+    flex-shrink: 0;
+}
+
+.item p {
+    color: var(--text-muted);
+}
+
+.item strong {
+    color: var(--text-light);
+}
+
+/* Pricing Section */
+.pricing {
+    padding: 80px 0;
+    background: linear-gradient(135deg, #0F1419 0%, #1a2332 100%);
+    text-align: center;
+}
+
+.pricing h2 {
+    text-align: center;
+    color: var(--primary-gold);
+}
+
+.pricing-card {
+    background: rgba(212, 165, 116, 0.1);
+    border: 2px solid var(--primary-gold);
+    padding: 3rem;
+    border-radius: 12px;
+    max-width: 500px;
+    margin: 2rem auto;
+}
+
+.price-tag {
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--primary-gold);
+    margin-bottom: 1rem;
+}
+
+.currency {
+    font-size: 1.5rem;
+}
+
+.amount {
+    font-size: 3rem;
+}
+
+.original-price {
+    color: var(--text-muted);
+    margin-bottom: 0.5rem;
+}
+
+.discount {
+    color: var(--accent-orange);
+    font-weight: 700;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.pricing-card .description {
+    color: var(--text-muted);
+    margin-bottom: 2rem;
+    font-size: 1.1rem;
+}
+
+.delivery {
+    color: var(--accent-orange);
+    margin-top: 1.5rem;
+}
+
+/* CTA Buttons */
+.cta-primary {
+    display: inline-block;
+    background: var(--primary-gold);
+    color: var(--primary-dark);
+    padding: 15px 40px;
+    border: none;
+    border-radius: 6px;
+    font-size: 1.1rem;
+    font-weight: 700;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.cta-primary:hover {
+    background: var(--accent-orange);
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px rgba(212, 165, 116, 0.2);
+}
+
+/* Final CTA Section */
+.final-cta {
+    padding: 60px 0;
+    background: rgba(212, 165, 116, 0.05);
+    border-top: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color);
+    text-align: center;
+}
+
+.final-cta h2 {
+    text-align: center;
+    color: var(--primary-gold);
+}
+
+/* Footer */
+footer {
+    padding: 3rem 0;
+    background: rgba(212, 165, 116, 0.02);
+    border-top: 1px solid var(--border-color);
+    text-align: center;
+    color: var(--text-muted);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    h1 { font-size: 2rem; }
+    h2 { font-size: 1.8rem; }
+    
+    .hero {
+        padding: 50px 0;
+    }
+    
+    .hero h1 {
+        font-size: 2rem;
+    }
+    
+    .hook {
+        font-size: 1.1rem;
+    }
+    
+    .pain-grid,
+    .solution-grid,
+    .deliverables-list {
+        grid-template-columns: 1fr;
+    }
+    
+    .pricing-card {
+        padding: 2rem;
+    }
+    
+    .price-tag {
+        font-size: 2rem;
+    }
+    
+    .amount {
+        font-size: 2rem;
+    }
+}
+
+/* Animations */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+section {
+    animation: fadeInUp 0.8s ease-out;
+}
+// Smooth scroll for anchor links
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) {
+            target.scrollIntoView({ behavior: 'smooth' });
+        }
+    });
+});
+
+// Track CTA clicks
+document.querySelectorAll('.cta-primary').forEach(button => {
+    button.addEventListener('click', function(e) {
+        console.log('CTA clicked:', this.href);
+        // Add your analytics code here
+        // Example: gtag('event', 'cta_click', { url: this.href });
+    });
+});
+
+// Intersection Observer for fade-in animations
+const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) {
+            entry.target.style.opacity = '1';
+            entry.target.style.transform = 'translateY(0)';
+        }
+    });
+}, { threshold: 0.1 });
+
+document.querySelectorAll('section').forEach(section => {
+    section.style.opacity = '0';
+    section.style.transform = 'translateY(20px)';
+    section.style.transition = 'all 0.6s ease-out';
+    observer.observe(section);
+});
